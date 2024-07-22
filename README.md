@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://iv4n-dev.netlify.app">Ivan</a></b>
+                <b><a target="_blank" href="https://iv4n.dev">Ivan</a></b>
         </samp>
 </h3>
 
@@ -17,14 +17,14 @@
 <br>
 
 <p align="center">
-    <a href="https://iv4n-dev.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Website-ff1f44?style=for-the-badge&logo=medium&logoColor=white" alt="iv4n" />
+    <a href="https://iv4n.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Website-ff1f44?style=for-the-badge&logo=medium&logoColor=white" alt="iv4n website" />
     </a>
     <a href="https://www.linkedin.com/in/iv4n-dev/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="ivan linkedin"/>
     </a>
     <a href="https://www.instagram.com/iv4n_dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ivan instagram" />
     </a>
 </p>
 
@@ -59,4 +59,4 @@
 
 ###
 
-![Estadísticas de lenguajes más usados por Iv44n](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv44n&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true&text_color=ffffff&&title_color=FFFFFF)
+![Estadísticas de lenguajes más usados por Iv44n](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv44n&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true&text_color=00c07b&&title_color=0682ff)
