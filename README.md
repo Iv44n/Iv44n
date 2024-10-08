@@ -1,16 +1,16 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://iv4n.dev">Ivan</a></b>
+                <b><a target="_blank" href="https://iv4n.dev">Ivan.</a></b>
         </samp>
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff2468&center=true&random=false&width=435&lines=Web+Developer;1.5%2B+years+of+coding+experiencie;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff2468&center=true&random=false&width=435&lines=Web+Developer;2%2B+years+of+coding+experiencie;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
     <samp>
-        「 I'm a software engineer based in <b>Lima</b>, <b>Peru</b>. 」
+        「 I'm a software engineer student based in <b>Lima</b>, <b>Peru</b>. 」
     </samp>
 </p>
 
