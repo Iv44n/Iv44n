@@ -10,7 +10,7 @@
 
 <p align="center"> 
     <samp>
-        「 I'm a software engineer student based in <b>Lima</b>, <b>Peru</b>. 」
+        「 I'm a fullstack developer based in <b>Lima</b>, <b>Perú</b>. 」
     </samp>
 </p>
 
