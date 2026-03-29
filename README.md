@@ -71,3 +71,9 @@
 ###
 
 ![Estadísticas de lenguajes más usados por Iv44n](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv44n&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true&text_color=00c07b&&title_color=0682ff)
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Iv44n&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Iv44n&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv44n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
